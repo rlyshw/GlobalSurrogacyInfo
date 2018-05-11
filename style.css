@@ -1,0 +1,19 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.section {
+  padding: 10px 80px;
+}
+
+#key {
+  background: linear-gradient(to left, red ,#4eff0e);
+  height: 20px;
+}
+
+#key #low {
+  float: left;
+}
+#key #high {
+  float: right;
+}
